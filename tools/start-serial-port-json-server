@@ -1,0 +1,1 @@
+sudo /etc/init.d/serial-port-json-server start
