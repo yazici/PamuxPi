@@ -1,0 +1,6 @@
+git config --global user.email "yazici.b@gmail.com"
+git config --global user.name barisy
+git commit -m "First commit"
+git status
+git add .
+git push
